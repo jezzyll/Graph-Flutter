@@ -1,5 +1,6 @@
 # Student Performance Graph App
 
+
 This Flutter app displays a line graph representing a student's marks across 6 semesters. The app uses the `fl_chart` package to create the line graph and demonstrates a simple UI for visualizing a student's academic performance.
 
 ## Features
